@@ -7,7 +7,7 @@ export const Main = () => {
   return (
     <div className="video-background">
       <video autoPlay loop muted>
-        <source src="vidbg/video_001.mp4" type="video/mp4" />
+        <source src="https://webgwhj--andysetiawan4.repl.co/videoscr/video_001.mp4" />
         Your browser does not support the video tag.
       </video>
           <div id='main'>

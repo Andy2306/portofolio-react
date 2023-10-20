@@ -7,7 +7,7 @@ export const Main = () => {
   return (
     <div className="video-background">
       <video autoPlay loop muted>
-        <source src="vidbg/video_001.mp4" type="video/mp4" />
+        <source src="https://webgwhj--andysetiawan4.repl.co/videoscr/video_001.mp4" type="video/mp4" />
         Your browser does not support the video tag.
       </video>
           <div id='main'>
@@ -23,9 +23,9 @@ export const Main = () => {
                     // Same substring at the start will only be typed out once, initially
                     'Hello nama w Andy',
                     1000, // wait 1s before replacing "Mice" with "Hamsters"
-                    'Player Genshin Impact',
+                    'Web Developer and 2D game Developer',
                     1000,
-                    'Player CODM (optional)',
+                    'im play Genshin impact',
                     1000,
                   ]}
                   wrapper="span"

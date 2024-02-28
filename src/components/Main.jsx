@@ -25,7 +25,7 @@ export const Main = () => {
                     1000, // wait 1s before replacing "Mice" with "Hamsters"
                     'Web Developer and 2D game Developer',
                     1000,
-                    'im play Genshin impact',
+                    'im play Genshin impact and other',
                     1000,
                   ]}
                   wrapper="span"
